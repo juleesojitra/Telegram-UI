@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/plus"
+        android:icon="@drawable/plus"
+        android:title="Add Account">
+    </item>
+    <item
+        android:id="@+id/group"
+        android:icon="@drawable/group"
+        android:title="New Group">
+    </item>
+    <item
+        android:id="@+id/contects"
+        android:icon="@drawable/person"
+        android:title="Contects">
+    </item>
+    <item
+        android:id="@+id/call"
+        android:icon="@drawable/call"
+        android:title="Calls">
+    </item>
+    <item
+        android:id="@+id/near"
+        android:icon="@drawable/near"
+        android:title="People Nearby">
+    </item>
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/settings"
+        android:title="Setting">
+    </item>
+    <item
+        android:id="@+id/invite"
+        android:icon="@drawable/invite"
+        android:title="Invite Friends">
+    </item>
+    
+</menu>
